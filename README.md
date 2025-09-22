@@ -2,6 +2,7 @@
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
 # Tools required
+colab python
 # PCM Program
 ```
 #PCM
@@ -69,6 +70,7 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 ```
+
 # DM program
 ```
 #Delta Modulation
